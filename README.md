@@ -4,13 +4,18 @@
 
 - Which variables/coefficients provided a non-random amount of variance to the mpg values in the dataset?
   - Test
+
+**_Figure 1: Coefficients Summary_**
+
+![Coefficients Summary](/Images/Q1_probability.png)
+
 - Is the slope of the linear model considered to be zero? Why or why not?
   - Test
 
 - Does this linear model predict mpg of MechaCar prototypes effectively? Why or why not?
   - Test
   
-**_Figure 1: Multiple Linear Regression_**
+**_Figure 2: Deliverable 1 Results_**
 
 ![Linear Regression](/Images/deliverable_1.png)
 
@@ -22,7 +27,7 @@ The design specifications for the MechaCar suspension coils dictate that the var
 - Does the current manufacturing data meet this design specification for all manufacturing lots in total and each lot individually? Why or why not?
   - Test
 
-**_Figure 2: Summary Stats Suspension Coils_**
+**_Figure 3: Deliverable 2 Results_**
 
 ![Summary Stats Suspension Coils](/Images/deliverable_2.png)
 
@@ -32,7 +37,7 @@ briefly summarize your interpretation and findings for the t-test results. Inclu
 
 - Test
 
-**_Figure 3: T-Tests on Suspension Coils_**
+**_Figure 4: Deliverable 3 Results_**
 
 ![T-Tests on Suspension Coils](/Images/deliverable_3.png)
 
