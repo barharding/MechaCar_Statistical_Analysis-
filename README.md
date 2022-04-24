@@ -10,7 +10,7 @@
 - Does this linear model predict mpg of MechaCar prototypes effectively? Why or why not?
   - Test
   
-**_Figure 1: Linear Regression_**
+**_Figure 1: Multiple Linear Regression_**
 
 ![Linear Regression](/Images/deliverable_1.png)
 
