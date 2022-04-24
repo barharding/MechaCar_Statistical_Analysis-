@@ -9,6 +9,10 @@ Is the slope of the linear model considered to be zero? Why or why not?
 
 Does this linear model predict mpg of MechaCar prototypes effectively? Why or why not?
 
+**_Figure 1: Linear Regression_**
+
+![Linear Regression](/images/deliverable_1.png)
+
 
 ## Summary Statistics on Suspension Coils
 
