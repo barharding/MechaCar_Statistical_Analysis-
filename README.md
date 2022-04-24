@@ -3,17 +3,17 @@
 ## Linear Regression to Predict MPG
 
 - Which variables/coefficients provided a non-random amount of variance to the mpg values in the dataset?
-  - Test
+  - Both Vehicle Length & Ground Clearance p-values shown in **_Figure 1_** show there is a probability that each coefficient contributes a random amount of variance to the linear model at 2.60e-12 and 5.21e-08 respectively.  These low probability values indicate in an counter-intuitive way that that both do have an impact on miles per gallan.
 
 **_Figure 1: Coefficients Summary_**
 
 ![Coefficients Summary](/Images/Q1_probability.png)
 
 - Is the slope of the linear model considered to be zero? Why or why not?
-  - Test
+  - The slope of the linear model is not considered to be zero given the p-value is 5.35.e-11.  A zero slope would suggest there is no correlation between the independent variables which we know is not true.
 
 - Does this linear model predict mpg of MechaCar prototypes effectively? Why or why not?
-  - Test
+  - Based on an R-squared value of 71.49% this model is effective for predicting MPG almost 72% of the time.  Additional, analysis  with perhaps more or less independent variables would need to be performed to see if this can be increased or not to answer the question if 72% is effective as it may be the best you can do.
   
 **_Figure 2: Deliverable 1 Results_**
 
