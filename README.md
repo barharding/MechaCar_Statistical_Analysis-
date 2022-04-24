@@ -15,10 +15,6 @@
 - Does this linear model predict mpg of MechaCar prototypes effectively? Why or why not?
   - Based on an R-squared value of 71.49% this model is effective for predicting MPG almost 72% of the time.  Additional, analysis  with perhaps more or less independent variables would need to be performed to see if this can be increased or not to answer the question if 72% is effective as it may be the best you can do.
   
-**_Figure 2: Deliverable 1 Results_**
-
-![Linear Regression](/Images/deliverable_1.png)
-
 
 ## Summary Statistics on Suspension Coils
 
@@ -27,7 +23,7 @@ The design specifications for the MechaCar suspension coils dictate that the var
 - Does the current manufacturing data meet this design specification for all manufacturing lots in total and each lot individually? Why or why not?
   - Test
 
-**_Figure 3: Deliverable 2 Results_**
+**_Figure 2: Deliverable 2 Results_**
 
 ![Summary Stats Suspension Coils](/Images/deliverable_2.png)
 
