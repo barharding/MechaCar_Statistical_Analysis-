@@ -1,4 +1,4 @@
-# MechaCar_Statistical_Analysis-
+# MechaCar Statistical Analysis
 
 ## Linear Regression to Predict MPG
 
@@ -24,3 +24,7 @@ What metric or metrics are you going to test?
 What is the null hypothesis or alternative hypothesis?
 What statistical test would you use to test the hypothesis? And why?
 What data is needed to run the statistical test?
+
+**_Figure 2: City Type Summary_**
+
+![City Type Summary](/resources/City_Type_Summary_df.png)
