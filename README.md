@@ -32,11 +32,12 @@ briefly summarize your interpretation and findings for the t-test results. Inclu
 
 ## Study Design: MechaCar vs Competition
 
+
 - What metric or metrics are you going to test?
-  - 
+  - test
 - What is the null hypothesis or alternative hypothesis?
-  -   
+  - test
 - What statistical test would you use to test the hypothesis? And why?
-  - 
+  - test
 - What data is needed to run the statistical test?
-  - 
+  - test
