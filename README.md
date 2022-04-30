@@ -46,3 +46,12 @@ The results from the 4 t-tests shown in **_figure 4_** shows  there is a statist
   - test
 - What data is needed to run the statistical test?
   - test
+
+
+2022 marks the return of inflationary prices and fuel is one of the highest rising costs, therefore one of the biggest factors when purchasing a vehicle and selecting between brands is a vehicles fuel efficiency.  A study to determine is lower higher miles per gallon results in high model sales would prove consumer buying habits are changing due to high fuel costs.
+
+In order to perform this study the input data would need to includes sales data for two periods for all comparable models to MechCar's model.  The two period include a low fuel cost period to be compared with a high fuel period. 
+
+Null Hypothesis:: Higher fuel efficiency has no impact on sales results for comparable models
+Alternative Hypothesis: Higher fuel efficiency increases sales in comparable models.
+
