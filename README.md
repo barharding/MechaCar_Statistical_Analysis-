@@ -29,7 +29,7 @@ The design specifications for the MechaCar suspension coils dictate that the var
 
 ## T-Tests on Suspension Coils
 
-The results from the 4 t-tests shows that Is there a statistical difference between the mean of Lot3's sample distribution and the mean of the population distribution. The mean for Lot 3 is 1496.14 which is below the desired 1500.  In addition the p-value is below the 0.05 indicating it is statistically different.
+The results from the 4 t-tests shown in **_figure 4_** shows  there is a statistical difference between the mean of Lot3's sample distribution and the mean of the population distribution. The mean for Lot 3 is 1496.14 which is below the desired 1500.  In addition the p-value is below the 0.05 indicating it is statistically different.  The other t-test are not significant.
 
 **_Figure 4: Deliverable 3 Results_**
 
