@@ -48,7 +48,7 @@ The results from the 4 t-tests shown in **_figure 4_** shows  there is a statist
 - What statistical test would you use to test the hypothesis? And why?
   - test
 - What data is needed to run the statistical test?
-  - In order to perform this study the input data would need to includes sales data for two periods for all comparable models to MechCar's model.  The two period include a low fuel cost period to be compared with a high fuel cost period. 
+  - In order to perform this study the input data would need to includes sales data for two periods for all comparable models to MechCar's model.  The two period include a low fuel cost period to be compared with a high fuel cost period. The study assumes that comparable models the price & type of vehicle comparable while fuel efficiency is different or is some cases the same between them.
 
 
 
