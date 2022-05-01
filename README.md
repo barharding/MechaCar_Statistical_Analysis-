@@ -38,14 +38,15 @@ The results from the 4 t-tests shown in **_figure 4_** shows  there is a statist
 ## Study Design: MechaCar vs Competition
 
 - What metric or metrics are you going to test?
-  - 2022 marks the return of inflationary prices and fuel is one of the highest rising costs, therefore one of the biggest factors when purchasing a vehicle and selecting between brands is vehicle fuel efficiency.  
+  - 2022 marks the return of inflationary prices and fuel is one of the highest rising costs, therefore one of the biggest factors when purchasing a vehicle and selecting between brands is vehicle fuel efficiency.  One would expect that sales for highly efficient vehicles increases when fuel prices go up.
 
 - What is the null hypothesis or alternative hypothesis?
- - Null Hypothesis:: There is no change in sales volumes for high efficiency vehicles when fuel prices increase
+  - Null Hypothesis:: There is no change in sales volumes for high efficiency vehicles when fuel prices increase
   - Alternative Hypothesis: Sales in high efficiency vehicles increase when fuel prices increase
 
 - What statistical test would you use to test the hypothesis? And why?
   - An anova test will be used to evaluate the sales performance data split into three categorical fuel price groups: High, Medium, Low
+  - A paired t-test will be run for each class.  For each test the sales data in low period and sales data in high period will be tested
   
   
 - What data is needed to run the statistical test?
