@@ -38,19 +38,21 @@ The results from the 4 t-tests shown in **_figure 4_** shows  there is a statist
 ## Study Design: MechaCar vs Competition
 
 - What metric or metrics are you going to test?
-  - 2022 marks the return of inflationary prices and fuel is one of the highest rising costs, therefore one of the biggest factors when purchasing a vehicle and selecting between brands is a vehicles fuel efficiency.  A study to determine if lower higher miles per gallon results in high model sales would prove consumer buying habits are changing due to high fuel costs.
-
+  - 2022 marks the return of inflationary prices and fuel is one of the highest rising costs, therefore one of the biggest factors when purchasing a vehicle and selecting between brands is vehicle fuel efficiency.  
 
 - What is the null hypothesis or alternative hypothesis?
-  - Null Hypothesis:: Higher fuel efficiency has no impact on sales results for comparable models
-  - Alternative Hypothesis: Higher fuel efficiency increases sales in comparable models.
+ - Null Hypothesis:: There is no change in sales volumes for high efficiency vehicles when fuel prices increase
+  - Alternative Hypothesis: Sales in high efficiency vehicles increase when fuel prices increase
 
 - What statistical test would you use to test the hypothesis? And why?
-  - test
+  - An anova test will be used to evaluate the sales performance data split into three categorical fuel price groups: High, Medium, Low
+  
+  
 - What data is needed to run the statistical test?
-  - Sales of fuel effience cars today vs two years ago.
-  - groups of models this quarter data fuel efficient vs no fuel efficient
-  - 
+  -  A list of the 3 best fuel-efficient passenger cars in each of the 8 vehicle classes  as listed on the EPA website: https://www.fueleconomy.gov/feg/best-worst.shtml.
+  -  Three years of sales data for each vehicle
+  -  Fuel price data for the same three year period
+
 
 
 
